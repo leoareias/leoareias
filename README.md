@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @leoareias
+- 👀 I am interested in astrophysics, apps, technology, simulators and many other things.
+- 🌱 I’m currently learning computer science.
+- 💞️ I’m looking to collaborate on any project that gives me experience.
